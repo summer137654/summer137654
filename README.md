@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ly Xuan-Huong 👋
 
-<!--
-**summer137654/summer137654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently graduated with a Master's degree in Bioinformatics from National Yang Ming Chiao Tung University.
 
-Here are some ideas to get you started:
+## About me
+- Interested in software development and data analysis
+- Familiar with Python and C/C++
+- Passionate about building practical and useful applications
+- Interested in software engineering and product/project management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming: Python, C, C++
+- Tools: Git, Linux
+- Others: Data analysis, problem solving, cross-functional collaboration
+
+## Contact
+- Email: lyxuanhuong999@gmail.com
+- GitHub: https://github.com/summer137654
