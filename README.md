@@ -14,5 +14,5 @@ I recently graduated with a Master's degree in Bioinformatics from National Yang
 - Others: Data analysis, problem solving, cross-functional collaboration
 
 ## Contact
-- Email: lyxuanhuong999@gmail.com
+- Email: lyxuanhuong1560@gmail.com
 - GitHub: https://github.com/summer137654
